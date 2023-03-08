@@ -1,10 +1,16 @@
 body{
     padding: 0;
     margin: 0;
+    background-color: pink;
 }
 
 .container{
     display: flex;
     flex-direction: row;
     flex-wrap: wrap;
+}
+
+.info{
+    text-align: center;
+    font-family: sans-serif;
 }
